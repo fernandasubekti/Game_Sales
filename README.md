@@ -24,13 +24,6 @@ Some question about EDA:
 3. Determining the average total shipments.
 
 ### Data Analysis
-
-1. Which years have more than 3 games?
-2. Which years belong to the top 25% based on ratings?
-3. Which years are in the top 25% based on sales?
-
-### Data Analysis
-I'd like use Python to know:
 1. Find the years with over 3 games.
 2. Determine the top 25% of years based on ratings.
 3. Identify the top 25% of years based on sales.
